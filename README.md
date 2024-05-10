@@ -1,5 +1,6 @@
 # Firmware for ESP32 to Drive HUB75 Panel, Syncing SignalRGB Effects
 
+Using [ESP32-HUB75-MatrixPanel-DMA](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA) to drive the panel
 Currently tested with 32x64 panel only.
 
 1. Change WiFi credentials.

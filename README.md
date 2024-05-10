@@ -3,7 +3,7 @@
 Using [ESP32-HUB75-MatrixPanel-DMA](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA) to drive the panel
 Currently tested with 32x64 panel only.
 
-(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW55YW43OXdxNHdleWNqNjY3a3d6ZmQ4M3k0a3M3dmpxMTBycnJ1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FvDnpJ3RNhiTFHGpd3/giphy-downsized-large.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW55YW43OXdxNHdleWNqNjY3a3d6ZmQ4M3k0a3M3dmpxMTBycnJ1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FvDnpJ3RNhiTFHGpd3/giphy-downsized-large.gif)
 
 1. Change WiFi credentials.
 2. Wire to HUB75 panel as per the [wiring guide](https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA/blob/master/src/platforms/esp32/esp32-default-pins.hpp), upload the sketch to ESP32, reset, and power on.
